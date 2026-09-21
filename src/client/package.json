@@ -56,7 +56,7 @@
     "react-sparklines": "1.4.2",
     "rx": "4.0.7",
     "ua-parser-js": "0.7.10",
-    "ws": "0.8.1"
+    "ws": "5.2.5"
   },
   "devDependencies": {
     "@kadira/storybook": "1.33.0",
